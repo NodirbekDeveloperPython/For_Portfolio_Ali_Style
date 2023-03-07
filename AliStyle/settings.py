@@ -146,7 +146,7 @@ EMAIL_HOST_PASSWORD = 'jlkzrtylwmolivzo'
 
 
 
-# Static files (CSS, JavaScript, Images)
+# Static files (CSS, JavaScript, Images )
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 # Base url to serve media files
 MEDIA_URL = 'media/'
